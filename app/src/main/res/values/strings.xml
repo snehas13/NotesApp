@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_save">SAVE</string>
+    <string name="content">Description</string>
+    <string name="text_empty">Both title and content should be filled.</string>
+</resources>
